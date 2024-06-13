@@ -1,6 +1,7 @@
 # Digital Image Processing Homework: License Plates Landmarks Detection
 
 This repository contains code for digital image processing homework in 2024 spring semester, UCAS. The code implements the recognition of landmarks of license plates. Using the landmarks, we achieve localization and isometric segmentation of license plates.
+
 Any questions and discussions please email: shipingfuucas@gmail.com
 
 ## Dataset and Annotation
