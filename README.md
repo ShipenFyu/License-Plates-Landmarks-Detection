@@ -8,7 +8,7 @@ Any questions and discussions please email: shipingfuucas@gmail.com
 
 The dataset contains two parts, the CCPD2019 dataset mainly provides blue license plates, while the yellow license plate data comes from *aistudio.baidu.com*.
 
-from ``./data/wider_face.py``, the dataset has the following catalog format:
+From ``./data/wider_face.py``, the dataset has the following catalog format:
 
 ```Shell
   ./data/widerface/
@@ -24,7 +24,7 @@ from ``./data/wider_face.py``, the dataset has the following catalog format:
 
 train for training dataset, val for validation dataset, and test for test dataset.
 
-And for every ``label.txt``, The format is:
+And for every ``label.txt``, the format is:
 
 ```Shell
   # image name
