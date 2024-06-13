@@ -39,6 +39,10 @@ x, y for upper left corner coordinates of license plate; w, h for width and heig
 2. Some detection configuration could be modified in ``./detect.py``. The results of detection will be saved in ``./detect``.
 3. The detection result contains 4 landmarks and some segmentation frame of plates.
 
+## Segmentation Results
+
+<p align="center"><img src="detect/16.jpg" width="360"><img src="detect/18.jpg" width="360"></p>
+
 ## References
 - [Plate Landmarks detection](https://github.com/Fanghc95/Plate-Landmarks-detection/blob/main/README.md?plain=1)
 - [[ECCV 2018] CCPD: a diverse and well-annotated dataset for license plate detection and recognition](https://github.com/detectRecog/CCPD?tab=readme-ov-file#dataset-annotations)
